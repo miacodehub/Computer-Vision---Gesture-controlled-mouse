@@ -33,3 +33,4 @@ So far, the folowing features are accomplished:
 
 ## Demo:
 
+demo/Gesture_control.mp4
