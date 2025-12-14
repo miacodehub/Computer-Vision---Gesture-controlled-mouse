@@ -2,6 +2,22 @@
 
 A python application that lets the user control their mouse via camera captured hand gestures. This project is built using Python 3.10, OpenCV for image capturing, and MediaPipe for hand landmark handling.
 
+## Technologies and tools used
+
+Python 3.10.x
+
+OpenCV (opencv-python) 4.8.x
+
+MediaPipe 0.10.x
+
+NumPy 1.24.x
+
+PyAutoGUI 0.9.54
+
+OS: Windows 10 / 11
+
+Webcam: Built-in / USB (real-time capture)
+
 ## Features
 
 So far, the folowing features are accomplished:
