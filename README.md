@@ -23,3 +23,10 @@ So far, the folowing features are accomplished:
 - Hand tracking degrades near camera edges.
 - Prolonged use can cause hand fatigue.
 - Gestures are rule-based and may require per-user tuning.
+
+## Future Improvements
+
+- Train a gesture classifier instead of rule-based thresholds.
+- Add scroll and zoom gestures.
+- Support multi-hand interaction.
+- Combine with voice commands for accessibility.
